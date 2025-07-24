@@ -88,22 +88,3 @@ print("Heart Disease Risk:", "🔴 High" if risk == 1 else "🟢 Low")
 | Metric        | Score  |
 |---------------|--------|
 | Accuracy      | 0.82   |
-| Precision     | 0.83   |
-| Recall        | 0.81   |
-| F1-Score      | 0.82   |
-
-
-
-Key features that make this display well on GitHub:
-1. **Emoji headers** for visual scanning
-2. **Compact tables** with clear borders
-3. **Syntax highlighting** for code blocks
-4. **Responsive design** works on mobile
-5. **Required markers** (✅/❌) for parameters
-6. **Color-coded** risk indicators
-
-The markdown uses:
-- Standard GitHub Flavored Markdown
-- No HTML (which GitHub doesn't render)
-- Consistent column widths
-- Clear section separation
